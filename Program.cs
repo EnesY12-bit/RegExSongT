@@ -22,7 +22,7 @@ namespace RegExSongT
                     System.Diagnostics.Debug.WriteLine(matchCollection.Count);
                     foreach (Match item in matchCollection)
                     {
-
+                        //Test
 
                         // nimm das Code-snippet und mache eine Funktion daraus (am besten übergibst Du nur den String der Regular Expression) 
                         // und dann:
